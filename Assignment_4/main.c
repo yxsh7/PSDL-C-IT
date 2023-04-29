@@ -1,5 +1,5 @@
 // SI32 Yash Kamthe
-//GITHUB: https://github.com/yxsh7
+// GITHUB: https://github.com/yxsh7
 
 #include <xc.h>
 #include<stdio.h>
